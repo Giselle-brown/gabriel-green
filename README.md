@@ -1,3 +1,3 @@
 # Gabriel Green Garden House
 
-This is a simple website created by using html.
+This is just a simple Web Application created by using html.
